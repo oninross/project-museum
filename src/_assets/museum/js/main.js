@@ -156,7 +156,7 @@ $(() => {
 
 
     console.log("I'm a firestarter!");
-    speak('en-UK', 'Google UK English Female', "I'm a firestarter!");
+
 
     $('.js-speak').on('click', function (e) {
         e.preventDefault();
