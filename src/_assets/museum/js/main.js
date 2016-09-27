@@ -167,6 +167,12 @@ $(() => {
 
         speak('en-UK', 'Google UK English Female', 'In addition to this...AHEM');
 
-        speak('zh-TW', 'Google 國語（臺灣）', '我也会说华语');
+        speak('zh-TW', 'Google 國語（臺灣）', '我也会说华语.');
+
+        speak('hi-IN', 'Google हिन्दी', 'எனக்கு தமிழ் பேச தெரியும்.');
+
+        speak('id-ID', 'Google Bahasa Indonesia', 'Saya juga bisa bahasa indonesia.');
+
+        speak('en-UK', 'Google UK English Female', 'As you can hear, I am multilingual.  Thank you.');
     });
 });
