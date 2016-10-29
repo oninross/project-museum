@@ -169,7 +169,7 @@ $(() => {
 
         speak('zh-TW', 'Google 國語（臺灣）', '我也会说华语.');
 
-        speak('hi-IN', 'Google हिन्दी', 'எனக்கு தமிழ் பேச தெரியும்.');
+        // speak('hi-IN', 'Google हिन्दी', 'எனக்கு தமிழ் பேச தெரியும்.');
 
         speak('id-ID', 'Google Bahasa Indonesia', 'Saya juga bisa bahasa indonesia.');
 
